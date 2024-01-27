@@ -1,0 +1,15 @@
+# log.txt
+
+2024-01-27 12:34:56 - INFO: Application started
+2024-01-27 13:45:00 - ERROR: Unexpected error occurred
+    Traceback (most recent call last):
+      File "main.py", line 42, in <module>
+        some_function()
+      File "main.py", line 30, in some_function
+        result = divide_numbers(10, 0)
+      File "main.py", line 18, in divide_numbers
+        return x / y
+    ZeroDivisionError: division by zero
+2024-01-27 14:20:30 - WARNING: Low disk space detected
+2024-01-27 15:05:10 - INFO: User logged in (username: john_doe)
+2024-01-27 16:30:45 - DEBUG: Database query executed successfully

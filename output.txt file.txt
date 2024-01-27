@@ -1,0 +1,33 @@
+# README
+
+This is the output file for the GitHub repository.
+
+## Contents
+
+1. **Introduction**
+   - Brief description of the repository and its purpose.
+
+2. **Usage**
+   - Instructions on how to use the files in this repository.
+
+3. **Files**
+   - Overview of the key files and their functionalities.
+      - `output.txt`: This file contains sample output or any relevant information.
+
+4. **Contributing**
+   - Guidelines for contributing to the repository.
+
+5. **License**
+   - Information about the license under which the repository is shared.
+
+## About
+
+This repository is created for demonstration purposes. Feel free to explore the content and use it as a reference.
+
+## Usage
+
+To use the files in this repository, follow these steps:
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
